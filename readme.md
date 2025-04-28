@@ -50,11 +50,11 @@ An interactive Streamlit dashboard to explore and analyze global import-export f
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohammad-adil-shaik/Projects/Global_trade_analytics.git
+git clone https://github.com/mohammad-adil-shaik/Global_trade_analytics
 
 
 # Navigate into the project
-cd Projects/Global_trade_analytics
+cd Global_trade_analytics
 
 # (Optional) Create and activate virtual environment
 
